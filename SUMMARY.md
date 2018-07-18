@@ -25,7 +25,7 @@
 * [jQuery UI](jquery-ui.md)
 * [NPM](build/npm.md)
 * [Vue.js](vue.md)
-* [Сборка и автоматизация](build/build.md)
+* [Сборка и автоматизация](builders/build.md)
 * [Практические задания по JS](js-tasks.md)
 
 
